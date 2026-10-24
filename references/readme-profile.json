@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 276｜Spatial Archive: keeps the photo and takes apart its structure and spatial relationships into a small, unfinished deconstructivist study — overlapping plan, elevation, section, axonometric and perspective fragments in extremely fine technical-pen and engraving-like lines, with guide, projection and construction lines, slight shifts, breaks and floating pieces — in graphite grey or soft black on ivory, off-white, pale grey-green or warm grey archival paper, compressed into one area of wide empty space and labelled with short archive notes and numbers in a narrow technical typeface. Not a blueprint or CAD look. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-276 or asks for a deconstructed architectural drawing, layered spatial study or archival line montage from a photo.",
+  "short_description": "空间档案：把照片的结构拆成叠在一起的极细线平面、剖面和轴测片段",
+  "zh-CN": {
+    "name": "空间档案",
+    "tagline": "把照片里的结构拆开，叠成一份极细线条的未完成空间研究。",
+    "look": "原照片保留；主体的空间关系被拆解重组，平面、立面、剖面、轴测和透视片段用极细的针管笔线、刻线叠在一起，再加辅助线、投影线和构造线，局部错位、断开、漂浮，像还没画完。远看安静，近看线条很密。只用石墨灰或柔和黑画在米白、象牙白、浅灰绿或暖灰的档案纸色上，图纸被压在一小块区域，四周大片留白，配几条细窄字体的档案注记和编号。",
+    "traits": ["解构制图", "建筑档案", "细线叠层", "米白纸面", "极端留白"],
+    "good": [
+      "结构和空间关系清楚的建筑：一座桥、一段楼梯、一栋有特点的房子、一个中庭",
+      "有几何结构的物件或场景：一把椅子、一座温室、一处站台",
+      "想做成建筑作品集、研究档案或展览配图的空间照片"
+    ],
+    "poor": [
+      "靠表情、毛发或肤色动人的人像和宠物照，会被拆成结构线",
+      "想保留照片色彩的需求，这里几乎只有纸色和石墨",
+      "想要写实效果图、蓝图、CAD 图纸或赛博界面感的需求"
+    ]
+  },
+  "en": {
+    "name": "Spatial Archive",
+    "tagline": "Takes apart the structure in your photo and layers it into an unfinished fine-line spatial study.",
+    "look": "Your photo stays; the subject's spatial relationships are taken apart and reassembled, with plan, elevation, section, axonometric and perspective fragments layered in extremely fine technical-pen and engraving-like lines, plus guide, projection and construction lines that shift, break off and float as if the drawing were unfinished. From a distance it is quiet; up close the lines are dense. Only graphite grey or soft black appears, on ivory, off-white, pale grey-green or warm grey archival paper; the drawing is compressed into one area surrounded by wide empty space, with a few archive notes and numbers in a narrow technical typeface.",
+    "traits": ["Deconstructed drafting", "Architectural archive", "Layered fine lines", "Off-white paper", "Extreme whitespace"],
+    "good": [
+      "Buildings with clear structure and space: a bridge, a staircase, a distinctive house, an atrium",
+      "Objects or places with geometric structure: a chair, a greenhouse, a station platform",
+      "Spatial photos you want for an architecture portfolio, a research file or an exhibition"
+    ],
+    "poor": [
+      "Portraits and pet photos that rely on expression, fur or skin tone, which turn into structural lines",
+      "Wanting to keep the photo's colours, since only paper tone and graphite remain",
+      "Requests for a realistic rendering, a blueprint, CAD drawings or a sci-fi interface look"
+    ]
+  },
+  "ja": {
+    "name": "空間アーカイブ",
+    "tagline": "写真の構造を分解し、極細線の未完成な空間スタディとして重ねます。",
+    "look": "元の写真は残し、主役の空間関係を分解して組み直します。平面、立面、断面、アクソメ、透視の断片を極細のテクニカルペンや彫刻のような線で重ね、補助線、投影線、構成線も加えて、ところどころずれ、途切れ、浮かび、描きかけのように見せます。遠目には静かで、近づくと線が密です。使うのは石墨のグレーか柔らかな黒だけで、生成り、アイボリー、淡い灰緑、温かなグレーのアーカイブ紙に描かれ、図面は一部に小さくまとめられてまわりは大きな余白、細身の書体で短い記録メモと番号が添えられます。",
+    "traits": ["脱構築の製図", "建築アーカイブ", "細線の重なり", "生成りの紙", "大胆な余白"],
+    "good": [
+      "構造と空間がはっきりした建物：橋、階段、特徴のある家、吹き抜け",
+      "幾何学的な構造のある物や場所：椅子、温室、駅のホーム",
+      "建築ポートフォリオ、研究資料、展示用の図にしたい空間の写真"
+    ],
+    "poor": [
+      "表情や毛並み、肌の色が魅力の人物写真やペット写真（構造線に分解されます）",
+      "写真の色を残したい場合（残るのは紙の色と石墨だけです）",
+      "写実的なパース、青焼き、CAD図面、SFのインターフェース風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "공간 아카이브",
+    "tagline": "사진 속 구조를 해체해 아주 가는 선의 미완성 공간 연구로 겹쳐 놓습니다.",
+    "look": "원본 사진은 남기고, 주인공의 공간 관계를 해체해 다시 짭니다. 평면, 입면, 단면, 액소노메트릭, 투시 조각을 아주 가는 제도용 펜과 판화 같은 선으로 겹치고, 보조선, 투영선, 구성선을 더해 군데군데 어긋나고 끊기고 떠 있게 해 아직 다 그리지 않은 도면처럼 보입니다. 멀리서는 고요하고 가까이서는 선이 촘촘합니다. 흑연 회색이나 부드러운 검정만 미색, 상아색, 연한 회녹색, 따뜻한 회색의 기록용 종이에 쓰며, 도면은 한쪽에 작게 모이고 주변은 넓은 여백, 가는 서체의 짧은 기록 메모와 번호가 붙습니다.",
+    "traits": ["해체주의 제도", "건축 아카이브", "가는 선의 겹침", "미색 종이", "극단적 여백"],
+    "good": [
+      "구조와 공간이 뚜렷한 건축물: 다리, 계단, 개성 있는 집, 중정",
+      "기하학적 구조가 있는 물건이나 장소: 의자, 온실, 기차역 플랫폼",
+      "건축 포트폴리오, 연구 자료, 전시용 이미지로 쓰고 싶은 공간 사진"
+    ],
+    "poor": [
+      "표정이나 털, 피부색이 매력인 인물 사진과 반려동물 사진(구조선으로 분해됩니다)",
+      "사진의 색을 살리고 싶은 경우(종이색과 흑연만 남습니다)",
+      "사실적인 렌더링, 청사진, CAD 도면, SF 인터페이스 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أرشيف المكان",
+    "tagline": "يفكك البنية في صورتك ويرصّها في دراسة مكانية غير مكتملة بخطوط رفيعة جداً.",
+    "look": "تبقى صورتك، وتُفكَّك العلاقات المكانية للعنصر ثم يُعاد تركيبها: أجزاء من المسقط والواجهة والمقطع والإسقاط المحوري والمنظور تتراكب بخطوط رفيعة جداً كقلم الرسم الهندسي أو الحفر، مع خطوط مساعدة وإسقاط وإنشاء تنزاح وتنقطع وتطفو كأن الرسم لم يكتمل. من بعيد يبدو هادئاً، ومن قريب تظهر كثافة الخطوط. لا يظهر إلا رمادي الغرافيت أو أسود ناعم على ورق أرشيفي عاجي أو أبيض مائل للبيج أو أخضر رمادي فاتح أو رمادي دافئ، ويُجمع الرسم في منطقة صغيرة يحيط بها فراغ واسع، مع ملاحظات أرشيفية قصيرة وأرقام بخط تقني ضيق.",
+    "traits": ["رسم هندسي مفكك", "أرشيف معماري", "طبقات خطوط رفيعة", "ورق مائل للبيج", "فراغ واسع جداً"],
+    "good": [
+      "مبانٍ واضحة البنية والمكان: جسر، درج، بيت مميز، فناء داخلي",
+      "أغراض أو أماكن ذات بنية هندسية: كرسي، دفيئة، رصيف محطة",
+      "صور أماكن تريدها لملف أعمال معمارية أو ملف بحثي أو معرض"
+    ],
+    "poor": [
+      "صور الأشخاص والحيوانات الأليفة التي تعتمد على التعبير أو الفرو أو لون البشرة، فهي تتحول إلى خطوط بنيوية",
+      "الرغبة في الاحتفاظ بألوان الصورة، إذ لا يبقى إلا لون الورق والغرافيت",
+      "طلب تصوّر واقعي أو مخطط أزرق أو رسومات CAD أو مظهر واجهات الخيال العلمي"
+    ]
+  }
+}

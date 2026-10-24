@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-276
-description: "Create XXD Panel 276 raster artwork: a faithful photograph paired with a small deconstructive spatial study, fine drafting lines and archival whitespace. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-276 or asks for this 空间档案 style."
+description: "XXD Panel 276｜Spatial Archive: keeps the photo and takes apart its structure and spatial relationships into a small, unfinished deconstructivist study — overlapping plan, elevation, section, axonometric and perspective fragments in extremely fine technical-pen and engraving-like lines, with guide, projection and construction lines, slight shifts, breaks and floating pieces — in graphite grey or soft black on ivory, off-white, pale grey-green or warm grey archival paper, compressed into one area of wide empty space and labelled with short archive notes and numbers in a narrow technical typeface. Not a blueprint or CAD look. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-276 or asks for a deconstructed architectural drawing, layered spatial study or archival line montage from a photo."
 ---
 
 # XXD Panel 276
